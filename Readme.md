@@ -34,7 +34,6 @@
 - 💼 **Available for freelance projects and consulting**
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💙 Mobile & Frontend
@@ -45,12 +44,20 @@
 
 ### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧠 AI & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🧰 Tools
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ⚙ Tools
+![Firebase]
 
 ---
 
@@ -115,7 +122,10 @@ A full-featured legal services platform connecting students, clients, and legal 
 
 I'm currently **available for freelance projects and consulting opportunities**. Whether you need:
 
-- 📱 Custom mobile app development (Flutter/React Native)
+- 📱  Custom mobile App development (Flutter/React Native)
+- 💻 Custom Web Portal development
+- 💻 SAAS App
+- 📱  Custom Web Portal development
 - 🔄 App modernization and migration
 - 🎨 UI/UX optimization and redesign
 - 🧠 AI integration and implementation
