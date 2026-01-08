@@ -176,14 +176,6 @@ I'm currently **available for freelance projects and consulting opportunities**
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zayahan-Hasan-Shah&theme=tokyonight" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
