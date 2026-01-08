@@ -129,18 +129,13 @@ I'm currently **available for freelance projects and consulting opportunities**.
 
 ---
 
-## 📊 GitHub Statistics
+---
 
-<div align="center">
+## 🔥 GitHub Streak
 
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zayahan-Hasan-Shah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zayahan-Hasan-Shah&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zayahan-Hasan-Shah&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zayahan-Hasan-Shah&theme=tokyonight" />
+</p>
 
 ---
 
