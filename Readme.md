@@ -4,11 +4,11 @@
 </p>
 
 <h3 align="center">
-  Mobile Application Developer | Flutter 🚀  
+  Mobile Application Developer | Flutter 🚀
 </h3>
 
 <p align="center">
-  Passionate About App Development & Artificial Intelligence 🤖  
+  Passionate About App Development & Artificial Intelligence 🤖
 </p>
 
 <p align="center">
@@ -22,10 +22,12 @@
 ---
 
 ## 👨‍💻 About Me
+
 - 📱 Mobile Application Developer specializing in **Flutter**
 - 🧠 Passionate about **AI-integrated applications**
 - 🔥 Focused on performance, UI/UX, and scalable architecture
 - 🌱 Continuously learning and improving
+- 💼 **Available for freelance projects and consulting**
 
 ---
 
@@ -34,6 +36,7 @@
 ### 💙 Mobile & Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### ⚙️ Backend & Databases
@@ -48,26 +51,55 @@
 ---
 
 ## 📌 Featured Projects
+
 > 💡 *"Real-world problems inspire the best applications."*
 
 ### 📔 Daily Dairies
-📝 Personal diary & journaling mobile application  
-📱 Flutter • Clean UI • User-focused experience  
-🔗 https://github.com/Zayahan-Hasan-Shah/Daily-Dairies
+A comprehensive personal diary and journaling mobile application designed to help users document their daily experiences with rich media support and emotional insights.
+
+**Key Features:**
+- 📱 Cross-platform Flutter implementation with intuitive UI/UX
+- 🎨 Multiple theme options for personalized user experience
+- 📝 Text-based entries with multimedia support (video & audio attachments)
+- 📊 Emotion-based analytics to track mental wellness patterns
+- 🔔 Push notifications via Firebase Cloud Messaging (FCM)
+
+**Tech Stack:** Flutter • Dart • Firebase • FCM
+
+🔗 [View Repository](https://github.com/Zayahan-Hasan-Shah/Daily-Dairies)
 
 ---
 
 ### 🏥 CICL App
-📊 Professional mobile application for organizational use  
-⚙️ Flutter • Firebase • Scalable architecture  
-🔗 https://github.com/Zayahan-Hasan-Shah/CICL-APP
+An enterprise-grade mobile application developed for organizational workforce management, featuring secure authentication and scalable architecture for production environments.
+
+**Key Features:**
+- 🔐 Multi-factor authentication system with biometric integration
+- 👆 Fingerprint-based login for enhanced security
+- 🏗️ Modular component architecture for code reusability
+- ⚡ Optimized performance for large-scale deployment
+- 🔄 RESTful API integration with PHP backend
+
+**Tech Stack:** Flutter • PHP • MySQL • Biometric Authentication
+
+🔗 [View Repository](https://github.com/Zayahan-Hasan-Shah/CICL-APP)
 
 ---
 
 ### ⚖️ Lawyer App
-📚 Legal service & case management mobile solution  
-📱 Flutter • Modern UI • Practical real-world use case  
-🔗 https://github.com/Zayahan-Hasan-Shah/Lawyer-App
+A full-featured legal services platform connecting students, clients, and legal professionals through an integrated appointment booking and communication system.
+
+**Key Features:**
+- 👥 Multi-role architecture (Student, Client, Lawyer portals)
+- 📅 Dual appointment modes: walk-in scheduling and virtual consultations
+- 📹 Real-time video conferencing for remote legal consultations
+- 💬 Instant messaging with live chat functionality
+- 🔔 Automated push notifications for appointment reminders
+- 🔒 Secure data handling compliant with legal standards
+
+**Tech Stack:** Flutter • .NET • WebRTC • Firebase • Real-time Database
+
+🔗 [View Repository](https://github.com/Zayahan-Hasan-Shah/Lawyer-App)
 
 ---
 
@@ -75,10 +107,28 @@
 
 ---
 
+## 💼 Available for Freelance Work
+
+I'm currently **available for freelance projects and consulting opportunities**. Whether you need:
+
+- 📱 Custom mobile app development (Flutter/React Native)
+- 🔄 App modernization and migration
+- 🎨 UI/UX optimization and redesign
+- 🧠 AI integration and implementation
+- 🔧 Technical consulting and code reviews
+
+**Let's build something amazing together!**
+
+📧 Reach out at: **zayahanshah.18@gmail.com**
+
+> 💰 *"If you are good at something, never do it for free."*
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zayahan-Hasan-Shah&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zayahan-Hasan-Shah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -86,7 +136,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zayahan-Hasan-Shah&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Zayahan-Hasan-Shah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -94,7 +144,15 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zayahan-Hasan-Shah&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zayahan-Hasan-Shah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zayahan-Hasan-Shah&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -110,8 +168,10 @@
 ---
 
 ## 📫 Contact Me
-- 📧 **Email:** zayahanshah.18@gmail.com  
-- 📞 **Phone:** +92 332 769 9137  
+
+- 📧 **Email:** zayahanshah.18@gmail.com
+- 📞 **Phone:** +92 332 769 9137
+- 💼 **Open to:** Freelance Projects | Full-time Opportunities | Technical Consulting
 
 ---
 
