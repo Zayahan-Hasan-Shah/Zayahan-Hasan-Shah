@@ -1,39 +1,51 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Zayahan%20Hasan%20Shah&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+<!-- Professional Header -->
+<div align="center">
+  
+# 👨‍💻 Zayahan Hasan Shah
 
-<h3 align="center">
-  Mobile Application Developer | Flutter 🚀
-</h3>
+### Mobile Application Developer | Flutter Specialist 🚀
 
-<p align="center">
-  Passionate About App Development & Artificial Intelligence 🤖
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Solutions;Flutter+%7C+React+%7C+AI+Integration;5%2B+Years+of+Development+Experience;Passionate+About+Clean+Architecture)](https://git.io/typing-svg)
 
-<p align="center">
-  <b>Associate Mobile Developer @ Teknoloje Solutions</b>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-<p align="center">
-  <i>"Building impactful mobile experiences with clean code and modern technologies."</i>
-</p>
+**Associate Mobile Developer @ Teknoloje Solutions**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zayahan-Hasan-Shah&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=Zayahan-Hasan-Shah&color=0e75b6&style=for-the-badge)](https://github.com/Zayahan-Hasan-Shah)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 📱 Mobile Application Developer specializing in **Flutter**
+```dart
+class Developer {
+  final String name = "Zayahan Hasan Shah";
+  final String role = "Mobile Application Developer";
+  final List<String> expertise = [
+    "Flutter & Dart",
+    "Cross-Platform Development",
+    "AI Integration",
+    "Clean Architecture"
+  ];
+  
+  void currentFocus() {
+    print("Building scalable mobile solutions");
+    print("Exploring AI-powered applications");
+    print("Available for freelance projects");
+  }
+}
+```
+
+- 📱 Specialized in **Flutter** & **Cross-Platform Development**
 - 🧠 Passionate about **AI-integrated applications**
-- 🔥 Focused on performance, UI/UX, and scalable architecture
-- 🌱 Continuously learning and improving
-- 💼 **Available for freelance projects and consulting**
+- 🏗️ Advocate for **Clean Architecture** & **Scalable Design Patterns**
+- 🌱 Continuously learning and staying updated with latest tech trends
+- 💼 **Open for Freelance Projects & Technical Consulting**
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### 💙 Mobile & Frontend
@@ -52,12 +64,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### ⚙ Tools
-![Firebase]
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -65,7 +76,10 @@
 
 > 💡 *"Real-world problems inspire the best applications."*
 
-### 📔 Daily Dairies
+<details open>
+<summary><b>📔 Daily Dairies - Personal Journaling Platform</b></summary>
+<br>
+
 A comprehensive personal diary and journaling mobile application designed to help users document their daily experiences with rich media support and emotional insights.
 
 **Key Features:**
@@ -75,13 +89,16 @@ A comprehensive personal diary and journaling mobile application designed to hel
 - 📊 Emotion-based analytics to track mental wellness patterns
 - 🔔 Push notifications via Firebase Cloud Messaging (FCM)
 
-**Tech Stack:** Flutter • Dart • Firebase • FCM
+**Tech Stack:** `Flutter` • `Dart` • `Firebase` • `FCM`
 
-🔗 [View Repository](https://github.com/Zayahan-Hasan-Shah/Daily-Dairies)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zayahan-Hasan-Shah/Daily-Dairies)
 
----
+</details>
 
-### 🏥 CICL App
+<details>
+<summary><b>🏥 CICL App - Enterprise Workforce Management</b></summary>
+<br>
+
 An enterprise-grade mobile application developed for organizational workforce management, featuring secure authentication and scalable architecture for production environments.
 
 **Key Features:**
@@ -91,13 +108,16 @@ An enterprise-grade mobile application developed for organizational workforce ma
 - ⚡ Optimized performance for large-scale deployment
 - 🔄 RESTful API integration with PHP backend
 
-**Tech Stack:** Flutter • PHP • MySQL • Biometric Authentication
+**Tech Stack:** `Flutter` • `PHP` • `MySQL` • `Biometric Auth`
 
-🔗 [View Repository](https://github.com/Zayahan-Hasan-Shah/CICL-APP)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zayahan-Hasan-Shah/CICL-APP)
 
----
+</details>
 
-### ⚖️ Lawyer App
+<details>
+<summary><b>⚖️ Lawyer App - Legal Services Platform</b></summary>
+<br>
+
 A full-featured legal services platform connecting students, clients, and legal professionals through an integrated appointment booking and communication system.
 
 **Key Features:**
@@ -108,9 +128,11 @@ A full-featured legal services platform connecting students, clients, and legal 
 - 🔔 Automated push notifications for appointment reminders
 - 🔒 Secure data handling compliant with legal standards
 
-**Tech Stack:** Flutter • .NET • WebRTC • Firebase • Real-time Database
+**Tech Stack:** `Flutter` • `.NET` • `WebRTC` • `Firebase` • `Real-time DB`
 
-🔗 [View Repository](https://github.com/Zayahan-Hasan-Shah/Lawyer-App)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zayahan-Hasan-Shah/Lawyer-App)
+
+</details>
 
 ---
 
@@ -118,44 +140,60 @@ A full-featured legal services platform connecting students, clients, and legal 
 
 ---
 
-## 💼 Available for Freelance Work
+## 💼 Freelance Services Available
 
-I'm currently **available for freelance projects and consulting opportunities**. Whether you need:
+<div align="center">
 
-- 📱  Custom mobile App development (Flutter/React Native)
-- 💻 Custom Web Portal development
-- 💻 SAAS App
-- 📱  Custom Web Portal development
-- 🔄 App modernization and migration
-- 🎨 UI/UX optimization and redesign
-- 🧠 AI integration and implementation
-- 🔧 Technical consulting and code reviews
+### 🚀 Ready to Build Your Next Project?
+
+I'm currently **available for freelance projects and consulting opportunities**
+
+</div>
+
+| Service | Description |
+|---------|-------------|
+| 📱 **Mobile App Development** | Custom Flutter & React Native applications |
+| 💻 **Web Development** | Full-stack web portals and dashboards |
+| ☁️ **SaaS Solutions** | Scalable software-as-a-service platforms |
+| 🔄 **App Modernization** | Legacy app migration and optimization |
+| 🎨 **UI/UX Design** | Modern, user-centric interface design |
+| 🧠 **AI Integration** | Machine learning and AI-powered features |
+| 🔧 **Technical Consulting** | Code reviews, architecture planning |
+
+<div align="center">
 
 **Let's build something amazing together!**
 
-📧 Reach out at: **zayahanshah.18@gmail.com**
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayahanshah.18@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923327699137)
+
+</div>
 
 > 💰 *"If you are good at something, never do it for free."*
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zayahan-Hasan-Shah&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zayahan-Hasan-Shah&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zayahan-Hasan-Shah&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" />
+</div>
+
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zayahan-Hasan-Shah&theme=tokyonight" />
-</p>
-
----
-
----
-
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zayahan-Hasan-Shah&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zayahan-Hasan-Shah&custom_title=Contribution%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -163,33 +201,41 @@ I'm currently **available for freelance projects and consulting opportunities**.
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/zayahan-hasan-shah-66a85823a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Zayahan%20Hasan%20Shah-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:zayahanshah.18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zayahanshah.18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="tel:+923327699137">
-    <img src="https://img.shields.io/badge/Phone-%2B92%20332%20769%209137-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zayahan-hasan-shah-66a85823a/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayahanshah.18@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923327699137)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zayahan-Hasan-Shah)
+
+</div>
 
 ---
 
-## 📫 Contact Me
+## 📫 Get In Touch
 
-- 📧 **Email:** zayahanshah.18@gmail.com
-- 📞 **Phone:** +92 332 769 9137
-- 💼 **Open to:** Freelance Projects | Full-time Opportunities | Technical Consulting
+<div align="center">
+
+| Contact | Information |
+| 📧 Email | zayahanshah.18@gmail.com |
+| 📞 Phone | +92 332 769 9137 |
+| 💼 Status | Open to Freelance & Full-time Opportunities | 
+| 🌍 Location | Karachi, Pakistan |
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Code is not just written — it is crafted."</i>
-</p>
+<div align="center">
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer"/>
-</p>
+### 💭 Developer's Quote
+
+*"Code is not just written — it is crafted."*
+
+---
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
