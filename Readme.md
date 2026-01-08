@@ -5,7 +5,7 @@
 
 ### Mobile Application Developer | Flutter Specialist 🚀
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Solutions;Flutter+%7C+React+%7C+AI+Integration;5%2B+Years+of+Development+Experience;Passionate+About+Clean+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Solutions;Flutter+%7C+React+%7C+AI+Integration;Passionate+About+Clean+Architecture)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
