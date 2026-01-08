@@ -139,14 +139,6 @@ I'm currently **available for freelance projects and consulting opportunities**.
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zayahan-Hasan-Shah&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 📈 Contribution Activity
