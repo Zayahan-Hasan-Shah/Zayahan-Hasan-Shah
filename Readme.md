@@ -19,6 +19,10 @@
   <i>"Building impactful mobile experiences with clean code and modern technologies."</i>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zayahan-Hasan-Shah&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -125,35 +129,38 @@ I'm currently **available for freelance projects and consulting opportunities**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zayahan-Hasan-Shah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zayahan-Hasan-Shah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zayahan-Hasan-Shah&theme=tokyonight&hide_border=true" />
 
-## 🔥 GitHub Streak
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zayahan-Hasan-Shah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zayahan-Hasan-Shah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zayahan-Hasan-Shah&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zayahan-Hasan-Shah&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zayahan-Hasan-Shah&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zayahan-Hasan-Shah&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
+</div>
 
 ---
 
@@ -162,6 +169,12 @@ I'm currently **available for freelance projects and consulting opportunities**.
 <p align="center">
   <a href="https://www.linkedin.com/in/zayahan-hasan-shah-66a85823a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Zayahan%20Hasan%20Shah-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:zayahanshah.18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zayahanshah.18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="tel:+923327699137">
+    <img src="https://img.shields.io/badge/Phone-%2B92%20332%20769%209137-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
