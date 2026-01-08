@@ -175,28 +175,11 @@ I'm currently **available for freelance projects and consulting opportunities**
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 GitHub Streak
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zayahan-Hasan-Shah&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zayahan-Hasan-Shah&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zayahan-Hasan-Shah&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zayahan-Hasan-Shah&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zayahan-Hasan-Shah&theme=tokyonight" />
+</p>
 
 ---
 
