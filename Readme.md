@@ -5,7 +5,7 @@
 
 ### Mobile Application Developer | Flutter Specialist 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Solutions;Flutter+%7C+React+%7C+AI+Integration;Passionate+About+Clean+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Solutions;Flutter+%7C+React+%7C+AI+Integration;5%2B+Years+of+Development+Experience;Passionate+About+Clean+Architecture)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
@@ -52,6 +52,7 @@ class Developer {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### ⚙️ Backend & Databases
@@ -69,6 +70,7 @@ class Developer {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
@@ -171,6 +173,32 @@ I'm currently **available for freelance projects and consulting opportunities**
 
 > 💰 *"If you are good at something, never do it for free."*
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zayahan-Hasan-Shah&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zayahan-Hasan-Shah&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zayahan-Hasan-Shah&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zayahan-Hasan-Shah&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 ## 📈 Contribution Graph
 
@@ -200,9 +228,10 @@ I'm currently **available for freelance projects and consulting opportunities**
 <div align="center">
 
 | Contact | Information |
+|---------|-------------|
 | 📧 Email | zayahanshah.18@gmail.com |
 | 📞 Phone | +92 332 769 9137 |
-| 💼 Status | Open to Freelance & Full-time Opportunities | 
+| 💼 Status | Open to Freelance & Full-time Opportunities |
 | 🌍 Location | Karachi, Pakistan |
 
 </div>
@@ -217,7 +246,7 @@ I'm currently **available for freelance projects and consulting opportunities**
 
 ---
 
-
+Made with ❤️ by Zayahan Hasan Shah
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
