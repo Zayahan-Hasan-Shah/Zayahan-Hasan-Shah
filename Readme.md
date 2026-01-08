@@ -8,20 +8,24 @@
 </h3>
 
 <p align="center">
-  Passionate about App Development & Artificial Intelligence 🤖  
+  Passionate About App Development & Artificial Intelligence 🤖  
 </p>
 
 <p align="center">
   <b>Associate Mobile Developer @ Teknoloje Solutions</b>
 </p>
 
+<p align="center">
+  <i>"Building impactful mobile experiences with clean code and modern technologies."</i>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 - 📱 Mobile Application Developer specializing in **Flutter**
-- 🧠 Strong interest in **AI-powered applications**
-- 🔥 Building scalable, clean, and user-focused mobile apps
-- 🌱 Always learning new technologies and best practices
+- 🧠 Passionate about **AI-integrated applications**
+- 🔥 Focused on performance, UI/UX, and scalable architecture
+- 🌱 Continuously learning and improving
 
 ---
 
@@ -40,6 +44,34 @@
 ### 🧠 AI & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📌 Featured Projects
+> 💡 *"Real-world problems inspire the best applications."*
+
+### 📔 Daily Dairies
+📝 Personal diary & journaling mobile application  
+📱 Flutter • Clean UI • User-focused experience  
+🔗 https://github.com/Zayahan-Hasan-Shah/Daily-Dairies
+
+---
+
+### 🏥 CICL App
+📊 Professional mobile application for organizational use  
+⚙️ Flutter • Firebase • Scalable architecture  
+🔗 https://github.com/Zayahan-Hasan-Shah/CICL-APP
+
+---
+
+### ⚖️ Lawyer App
+📚 Legal service & case management mobile solution  
+📱 Flutter • Modern UI • Practical real-world use case  
+🔗 https://github.com/Zayahan-Hasan-Shah/Lawyer-App
+
+---
+
+> ⚡ *"Simplicity is the soul of efficient mobile applications."*
 
 ---
 
@@ -68,11 +100,6 @@
 
 ---
 
-## 📌 Pinned Projects
-> 📍 *You can pin your best Flutter and Mobile projects from GitHub → Profile → Customize Pins*
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -90,7 +117,7 @@
 ---
 
 <p align="center">
-  <i>"Building impactful mobile experiences with clean code & modern tech."</i>
+  <i>"Code is not just written — it is crafted."</i>
 </p>
 
 <!-- Footer -->
